@@ -1,5 +1,5 @@
 
-# Hi there, I'm M7amadD3na! 👋
+# Hi there, I'm Mohammad Da'na! 👋
 
 ### 💻 Electrical Engineering | Embedded Systems & IoT
 
