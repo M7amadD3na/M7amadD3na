@@ -11,7 +11,7 @@ I enjoy working on hands-on hardware and software projects involving microcontro
 
 ## 🚀 About Me
 
-- 🎓 Computer Engineering
+- 🎓 Electrical Engineering
 - 🔧 Interested in Embedded Systems, IoT, and Hardware Development
 - 📡 Experience with ESP32, Arduino, SIM7600, and SIM800L
 - 🌐 Working with MQTT, HTTP, and ThingSpeak
